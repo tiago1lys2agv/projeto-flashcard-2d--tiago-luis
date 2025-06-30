@@ -24,12 +24,12 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    '',
-    'Oi em ingles é HI (RAI)'
+    'Como o inglês é importante no setor comerciário',
+    'Por conta da alto número de falantes de inglês e ser a "língua universal"'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Por que usamos o "ing" no final de verbos de ação?',
+    'Porque é uma ação que já estava sendo executada, ou seja está no passado'
 )
